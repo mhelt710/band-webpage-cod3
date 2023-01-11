@@ -1,6 +1,16 @@
 .sidebar {
   border: 2px solid red;
   padding: 4px;
-  width: 20%;
+  margin: 4px;
+  background-color: blanchedalmond;
+  width: 18%;
+  box-sizing: border-box;
 }
 
+.band-pic {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 4px;
+  width: 18%;
+  box-sizing: border-box;
+}
